@@ -1,0 +1,40 @@
+c:\users\316143308\documents\visual studio 2015\Projects\ProjetoDoenca\ProjetoDoenca\bin\Debug\ProjetoDoenca.exe.config
+c:\users\316143308\documents\visual studio 2015\Projects\ProjetoDoenca\ProjetoDoenca\obj\Debug\ProjetoDoenca.csprojResolveAssemblyReference.cache
+c:\users\316143308\documents\visual studio 2015\Projects\ProjetoDoenca\ProjetoDoenca\obj\Debug\MainWindow.baml
+c:\users\316143308\documents\visual studio 2015\Projects\ProjetoDoenca\ProjetoDoenca\obj\Debug\App.baml
+c:\users\316143308\documents\visual studio 2015\Projects\ProjetoDoenca\ProjetoDoenca\obj\Debug\MainWindow.g.cs
+c:\users\316143308\documents\visual studio 2015\Projects\ProjetoDoenca\ProjetoDoenca\obj\Debug\App.g.cs
+c:\users\316143308\documents\visual studio 2015\Projects\ProjetoDoenca\ProjetoDoenca\obj\Debug\ProjetoDoenca_MarkupCompile.cache
+c:\users\316143308\documents\visual studio 2015\Projects\ProjetoDoenca\ProjetoDoenca\obj\Debug\ProjetoDoenca.g.resources
+c:\users\316143308\documents\visual studio 2015\Projects\ProjetoDoenca\ProjetoDoenca\obj\Debug\ProjetoDoenca.Properties.Resources.resources
+c:\users\316143308\documents\visual studio 2015\Projects\ProjetoDoenca\ProjetoDoenca\obj\Debug\ProjetoDoenca.csproj.GenerateResource.Cache
+c:\users\316143308\documents\visual studio 2015\Projects\ProjetoDoenca\ProjetoDoenca\bin\Debug\ProjetoDoenca.exe
+c:\users\316143308\documents\visual studio 2015\Projects\ProjetoDoenca\ProjetoDoenca\bin\Debug\ProjetoDoenca.pdb
+c:\users\316143308\documents\visual studio 2015\Projects\ProjetoDoenca\ProjetoDoenca\bin\Debug\MahApps.Metro.dll
+c:\users\316143308\documents\visual studio 2015\Projects\ProjetoDoenca\ProjetoDoenca\bin\Debug\System.Windows.Interactivity.dll
+c:\users\316143308\documents\visual studio 2015\Projects\ProjetoDoenca\ProjetoDoenca\bin\Debug\MahApps.Metro.pdb
+c:\users\316143308\documents\visual studio 2015\Projects\ProjetoDoenca\ProjetoDoenca\bin\Debug\MahApps.Metro.xml
+c:\users\316143308\documents\visual studio 2015\Projects\ProjetoDoenca\ProjetoDoenca\obj\Debug\ProjetoDoenca.exe
+c:\users\316143308\documents\visual studio 2015\Projects\ProjetoDoenca\ProjetoDoenca\obj\Debug\ProjetoDoenca.pdb
+c:\users\316143308\documents\visual studio 2015\Projects\ProjetoDoenca\ProjetoDoenca\obj\Debug\Cadastrar.baml
+c:\users\316143308\documents\visual studio 2015\Projects\ProjetoDoenca\ProjetoDoenca\obj\Debug\Cadastrar.g.cs
+C:\Users\italo\OneDrive\Documentos\ProjetoDoenca\ProjetoDoenca\bin\Debug\ProjetoDoenca.exe.config
+C:\Users\italo\OneDrive\Documentos\ProjetoDoenca\ProjetoDoenca\obj\Debug\ProjetoDoenca.exe
+C:\Users\italo\OneDrive\Documentos\ProjetoDoenca\ProjetoDoenca\obj\Debug\ProjetoDoenca.pdb
+C:\Users\italo\OneDrive\Documentos\ProjetoDoenca\ProjetoDoenca\bin\Debug\ProjetoDoenca.exe
+C:\Users\italo\OneDrive\Documentos\ProjetoDoenca\ProjetoDoenca\bin\Debug\ProjetoDoenca.pdb
+C:\Users\italo\OneDrive\Documentos\ProjetoDoenca\ProjetoDoenca\bin\Debug\MahApps.Metro.dll
+C:\Users\italo\OneDrive\Documentos\ProjetoDoenca\ProjetoDoenca\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\italo\OneDrive\Documentos\ProjetoDoenca\ProjetoDoenca\bin\Debug\MahApps.Metro.pdb
+C:\Users\italo\OneDrive\Documentos\ProjetoDoenca\ProjetoDoenca\bin\Debug\MahApps.Metro.xml
+C:\Users\italo\OneDrive\Documentos\ProjetoDoenca\ProjetoDoenca\obj\Debug\ProjetoDoenca.csprojResolveAssemblyReference.cache
+C:\Users\italo\OneDrive\Documentos\ProjetoDoenca\ProjetoDoenca\obj\Debug\Cadastrar.baml
+C:\Users\italo\OneDrive\Documentos\ProjetoDoenca\ProjetoDoenca\obj\Debug\MainWindow.baml
+C:\Users\italo\OneDrive\Documentos\ProjetoDoenca\ProjetoDoenca\obj\Debug\App.baml
+C:\Users\italo\OneDrive\Documentos\ProjetoDoenca\ProjetoDoenca\obj\Debug\Cadastrar.g.cs
+C:\Users\italo\OneDrive\Documentos\ProjetoDoenca\ProjetoDoenca\obj\Debug\MainWindow.g.cs
+C:\Users\italo\OneDrive\Documentos\ProjetoDoenca\ProjetoDoenca\obj\Debug\App.g.cs
+C:\Users\italo\OneDrive\Documentos\ProjetoDoenca\ProjetoDoenca\obj\Debug\ProjetoDoenca_MarkupCompile.cache
+C:\Users\italo\OneDrive\Documentos\ProjetoDoenca\ProjetoDoenca\obj\Debug\ProjetoDoenca.g.resources
+C:\Users\italo\OneDrive\Documentos\ProjetoDoenca\ProjetoDoenca\obj\Debug\ProjetoDoenca.Properties.Resources.resources
+C:\Users\italo\OneDrive\Documentos\ProjetoDoenca\ProjetoDoenca\obj\Debug\ProjetoDoenca.csproj.GenerateResource.Cache
